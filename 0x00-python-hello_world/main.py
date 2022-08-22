@@ -1,2 +1,2 @@
-
-iergt School")branch 'master' of https://github.com/E-Viviane/alx-low_level_programming
+#!/usr/bin/python3
+print("Best School")
