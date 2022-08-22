@@ -1,1 +1,2 @@
-ng is like building a multilingual puzzle")a
+#!/usr/bin/python3
+print("\"Programming is like building a multilingual puzzle")
