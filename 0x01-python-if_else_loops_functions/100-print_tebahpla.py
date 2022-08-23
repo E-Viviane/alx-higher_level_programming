@@ -1,0 +1,9 @@
+in range(ord('z'), ord('a') - 1, - 1):
+
+        if c % 2 != 0:
+
+                    print("{:c}".format(c - 32), end='')
+
+                        else:
+
+                                    print("{:c}".format(c), end='')
