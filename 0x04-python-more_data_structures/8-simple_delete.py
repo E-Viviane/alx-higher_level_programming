@@ -1,0 +1,5 @@
+imple_delete(my_dict, key=""):
+
+        my_dict.pop(key, None)
+
+            return my_dict
