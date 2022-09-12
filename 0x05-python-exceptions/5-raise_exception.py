@@ -1,11 +1,7 @@
-se_exception.py
-
-
-
+#!/usr/bin/python3
+# 5-raise_exception.py
 
 
 def raise_exception():
-
-        """Raise a TypeError exception."""
-
-            raise TypeError
+    """Raise a TypeError exception."""
+    raise TypeError
