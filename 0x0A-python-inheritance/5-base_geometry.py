@@ -1,13 +1,8 @@
-se_geometry.py
-
+#!/usr/bin/python3
+# 5-base_geometry.py
 """Defines an empty class BaseGeometry."""
 
 
-
-
-
 class BaseGeometry:
-
-        """Represent base geometry."""
-
-            pass
+    """Represent base geometry."""
+    pass
